@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/router-crud/static/css/main.8c97ca25.css",
+    "main.js": "/router-crud/static/js/main.dc935ba5.js",
+    "index.html": "/router-crud/index.html",
+    "main.8c97ca25.css.map": "/router-crud/static/css/main.8c97ca25.css.map",
+    "main.dc935ba5.js.map": "/router-crud/static/js/main.dc935ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c97ca25.css",
+    "static/js/main.dc935ba5.js"
+  ]
+}
